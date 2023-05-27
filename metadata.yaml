@@ -1,0 +1,18 @@
+composer:
+  last: Kolberer
+  first: Cajetan
+title: Suscepimus Deus
+subtitle: Introitus die Purificationis B:V:M:
+genre: introitus
+scoring: S, A, T, B (coro), b, org
+license: cc-by-sa-4.0
+sources:
+  B1:
+    siglum: D-Dl
+    shelfmark: Mus.2251-E-4
+    date: 1725
+    rism: 212006782
+    url: https://digital.slub-dresden.de/id426600525
+    license: public domain
+    principal: true
+imslp:
