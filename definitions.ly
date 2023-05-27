@@ -3,7 +3,9 @@
 #(define option-movement-title-format "title")
 #(define option-print-all-bar-numbers #t)
 \include "ees.ly"
-\include "ees_articulate.ly"
+
+
+lyleft = \once \override LyricText.self-alignment-X = #LEFT
 
 
 tempoSuscepimus = \tempoMarkup "[Tempo deest]"
